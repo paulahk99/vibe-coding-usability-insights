@@ -1,0 +1,31 @@
+# Heuristic Evaluation
+
+Heuristic evaluation of two of the four AI-generated landing pages against Nielsen's usability heuristics, conducted prior to usability testing.
+
+## Z.ai
+Live: https://chat.z.ai/space/x1trc5hm0ht0-art
+
+### Aesthetic and Minimalist Design
+The header presents a large amount of information. While the visual hierarchy is well structured and visually appealing, it includes numerous elements — title, subtitle, buttons, and highlighted metrics — which can feel overwhelming.
+
+It also gives visual prominence to secondary information, such as the shelter's name and verification status, increasing visual clutter without adding value to the user's primary task.
+
+In addition, the page's main goal does not receive enough emphasis. The "Start Adoption" CTA is not prominently featured within the header and competes visually with other navigation buttons that lead to less relevant sections. As a result, the user's attention is divided, cognitive load increases, and it becomes more difficult to identify the primary action the interface is intended to encourage.
+
+### Match Between the System and the Real World
+The images used do not align with the purpose of the page. Instead of showing dogs, shelters, or scenes related to pet adoption, the interface displays photographs of buildings and plants. This creates a disconnect between the visual content and the task users expect to accomplish, making it harder to understand the context of the page and reducing the clarity of the communication.
+
+## ChatGPT
+Live: https://findapawch.netlify.app/
+
+### Help Users Recognize, Diagnose, and Recover from Errors
+On the mobile version, the form does not display an error message when the user enters an invalid email address, such as one missing the @ symbol. Although the system prevents the form from being submitted, it does not indicate which field contains the error or explain how to correct it. As a result, users must identify the issue through trial and error, increasing frustration and making it more difficult to recover from the error.
+
+### Visibility of System Status
+The form does not provide any feedback after the user attempts to submit it. It does not indicate whether the submission was successful, whether an error occurred, or whether the system is still processing the request. This lack of feedback leaves users uncertain about whether they should wait, try submitting the form again, or assume the operation was completed successfully.
+
+The "Adopt" and "Download the App" buttons, as well as the "Features", "Success Stories", and "About" navigation links, appear to be interactive but do not perform any action when clicked. The absence of a response or feedback creates uncertainty about whether the interaction was registered or if an error has occurred, preventing users from completing their task and reducing their confidence in the interface.
+
+### Aesthetic and Minimalist Design
+Although the interface maintains a clean and minimalist appearance, the visual hierarchy does not properly prioritize the primary action. The "Download App" button receives greater visual emphasis than "Start Adoption", drawing the user's attention toward a secondary action instead of the page's main goal.
+
