@@ -1,3 +1,3 @@
 ## ChatGPT result
 - Live: https://findapawch.netlify.app/
-- Code: [./chatgpt](./chatgpt)
+- Code: [index.html](./index.html)
